@@ -1,0 +1,53 @@
+body { width: 1200px;
+    margin: 0 auto;
+    font-size: bold;
+}
+
+.cover {
+    height: 180px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    text-align: left;
+    
+}
+
+
+
+.logo {
+    width: 200px;
+    margin-top: 120px;
+    
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+
+}
+
+
+address {
+    font-style: normal;
+    color: #959595;
+
+}
+
+address > span {
+
+    font-size: .8em;
+
+}
+
+.author {
+    text-decoration: none;
+    color: #6ec6ed;
+}
+
+figcaption{
+    font-size: .8em;
+}
+
+.highlight {
+        background-color: #fefe00;
+
+}
